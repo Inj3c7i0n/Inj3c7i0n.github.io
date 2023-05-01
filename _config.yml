@@ -13,10 +13,10 @@ thm_badge_no: 1016988
 show_thm_htb_badges_in_nav: true
 github_username: Inj3c7i0n
 gitlab:
-medium: @inj3c7i0nsec
-stackoverflow: https://stackoverflow.com/users/21770718/inj3c7i0n
+medium: inj3c7i0nsec
+stackoverflow: users/21770718
 hacker_news: 
-linkedin: https://www.linkedin.com/in/inj3c7i0n-mattmcd/
+linkedin: inj3c7i0n-mattmcd/
 twitch: inj3c7i0nsec
 youtube:
 twitter: Inj3c7i0nSec
@@ -25,7 +25,7 @@ instagram:
 reddit:
 pinterest:
 telegram: Inj3c7i0n
-steam: https://steamcommunity.com/profiles/76561199375876318/
+steam:
 
 # -------DO NOT ALTER -------#
 markdown: kramdown

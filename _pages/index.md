@@ -25,7 +25,6 @@ class AboutMe()
     self.age = 31
     self.location = "Northeast Texas"
     self.favorite_language = "Python"
-    self.current_work = "DoorDash"
     self.availability = "Full or Part time"
 ```
 
