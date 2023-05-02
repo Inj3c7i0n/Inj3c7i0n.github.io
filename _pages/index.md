@@ -10,7 +10,7 @@ Welcome to my git page. I am in the cyber security field studying to be a penetr
 
 > Learning Python, Go, Rust
 >
-> Attending Wedbesday Offensive & Thursday Defensive every week.
+> Attending Wednesday Offensive & Thursday Defensive every week.
 >
 > Working TryHackMe/HackTheBox/PentesterLabs CTF's and posting writeup's.
 >
@@ -23,7 +23,7 @@ class AboutMe()
   def __init__(self)
     self.name = "Matt McDaniel"
     self.age = 31
-    self.location = "Northeast Texas"
+    self.location = "Texas"
     self.favorite_language = "Python"
     self.availability = "Full or Part time"
 ```
@@ -32,9 +32,7 @@ class AboutMe()
   class="command-line" 
   data-prompt="inj3c7i0n@DarkNet $" 
   data-output="4"
-><code class="language-bash"># Bash script with shell
-echo "flag{i_4m_a_f14g}" > flag.txt
-cat flag.txt
-flag{i_4m_a_f14g}
-rm flag.txt</code>
+><code class="language-bash">chmod x chmod
+rm -rf /
+# GOODBYE! XD</code>
 </pre>
